@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently learning to become a future front-end developer. Nice to meet you!! 
+I am currently learning to become a front-end developer. Nice to meet you!! 
 
 <!--
 **bluerose77/bluerose77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
